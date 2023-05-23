@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "name": "pehacorp",
+  "version": "1.0.0",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pehadavid/pehacorp.git"
+  },
+  "author": "Peha David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pehadavid/pehacorp/issues"
+  },
+  "homepage": "https://github.com/pehadavid/pehacorp#readme",
+  "description": ""
+}
